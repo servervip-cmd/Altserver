@@ -1,0 +1,6 @@
+usbmuxd
+libimobiledevice6
+libimobiledevice-utils
+wget
+curl
+libavahi-compat-libdnssd-dev
